@@ -1,0 +1,7 @@
+/* Scoped to new hardware panel: original simulator styling remains untouched. */
+.nano-addon{margin-top:22px;padding:16px;border:1px solid #64748b55;border-radius:12px;background:#121d2380;color:inherit}
+.nano-heading{display:flex;justify-content:space-between;gap:8px;align-items:center;font-size:12px;flex-wrap:wrap}
+#nanoStatus{font-size:11px;color:#8ad3ad}.nano-actions{display:flex;gap:8px;margin:13px 0}.nano-actions button{flex:1;min-width:0}
+.nano-slider{display:block;font-size:12px}.nano-slider output{float:right}.nano-slider input{display:block;width:100%;margin-top:10px}
+.nano-readings{display:grid;grid-template-columns:repeat(5,1fr);gap:4px;margin-top:14px}.nano-readings span{background:#27343e;padding:7px 3px;text-align:center;border-radius:5px;font-size:11px}.nano-readings b{display:block;margin-top:4px}
+.nano-help{font-size:11px;line-height:1.6;opacity:.75;margin-top:10px}
